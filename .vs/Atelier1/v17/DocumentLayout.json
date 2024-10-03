@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\Atelier1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|c:\\users\\msi\\source\\repos\\atelier1\\atelier1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|c:\\users\\msi\\source\\repos\\atelier1\\atelier1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|c:\\users\\msi\\source\\repos\\atelier1\\atelier1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_minty.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_minty.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|c:\\users\\msi\\source\\repos\\atelier1\\atelier1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|c:\\users\\msi\\source\\repos\\atelier1\\atelier1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|c:\\users\\msi\\source\\repos\\atelier1\\atelier1\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|c:\\users\\msi\\source\\repos\\atelier1\\atelier1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|c:\\users\\msi\\source\\repos\\atelier1\\atelier1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|c:\\users\\msi\\source\\repos\\atelier1\\atelier1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53041063-A89B-4538-8672-6D341C11CDC2}|Atelier1\\Atelier1.csproj|solutionrelative:atelier1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Models\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Atelier1\\Models\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Atelier1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Atelier1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:24:28.408Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap_Minty.min.css",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_Minty.min.css",
+              "RelativeDocumentMoniker": "Atelier1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_Minty.min.css",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_Minty.min.css",
+              "RelativeToolTip": "Atelier1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_Minty.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-03T19:55:32.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Atelier1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Atelier1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T19:54:56.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Models\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Atelier1\\Models\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Models\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Atelier1\\Models\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:10:47.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Atelier1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Models\\Employee.cs",
+              "RelativeToolTip": "Atelier1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:08:39.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Atelier1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Atelier1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:15:13.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Atelier1\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Atelier1\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:24:43.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Atelier1\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Atelier1\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:28:48.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Atelier1\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Atelier1\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:29:46.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Atelier1\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Atelier1\\Atelier1\\Models\\Class.cs",
+              "RelativeToolTip": "Atelier1\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:04:27.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
